@@ -31,3 +31,7 @@ Everything component in nextjs - server component
 
 How get data from nextjs project? we have folder 'api', where we do request and get data from database.
 Api folder - is reserved folder name
+
+DOCS:
+https://nextjs.org/
+https://react.dev/
