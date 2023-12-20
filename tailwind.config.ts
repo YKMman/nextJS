@@ -37,4 +37,3 @@ const config: Config = {
 }
 export default config
 
-// background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 22.09%, rgba(0, 0, 0, 0.62) 71.8%);
