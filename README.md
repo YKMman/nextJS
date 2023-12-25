@@ -10,7 +10,7 @@ This is a full adaptive and cross-browser NEXTJS project with database postgres
 FULLSTACK APP
 
 Manual for use:
-1. open folder in vs code -> ctrl shift ` -> git clone https://github.com/YKMman/nexttest.git
+1. open folder in vs code -> ctrl shift ` or terminal -> git clone https://github.com/YKMman/nexttest.git
 2. open postgres database
 3. backslash! chcp 1251 to psql database (ru encoding)
 4. open .env.local file and update variables with you postgres database
