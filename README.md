@@ -13,8 +13,8 @@ Manual for use:
 2. open postgres database
 3. open .env.local file and update variables with you postgres database
 4. open .sql and ctrl c + ctrl v to postgres consol command
-5. Update name file on package.json -   "name": "nexttest",
-6. To name folder - nexttest
+5. Update name file on package.json -   "name": "nexttest", !important
+6. To name folder - nexttest  !important
 7. open folder in vs code
 8. npm i -D encoding -> npm i -> npm run dev 
 9. check project!
