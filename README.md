@@ -11,7 +11,7 @@ FULLSTACK APP
 Manual for use:
 1. git clone https://github.com/YKMman/nexttest.git
 2. open postgres database
-3.   \! chcp 1251 to psql database (ru encoding)
+3. backslash! chcp 1251 to psql database (ru encoding)
 4. open .env.local file and update variables with you postgres database
 5. open .sql and ctrl c + ctrl v to postgres consol command
 6. cd nexttest -> npm i -> npm run dev 
