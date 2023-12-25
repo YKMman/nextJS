@@ -16,7 +16,7 @@ Manual for use:
 5. Update name file on package.json -   "name": "nexttest",
 6. To name folder - nexttest
 7. open folder in vs code
-8. npm i + npm run dev
+8. npm i -D encoding -> npm i -> npm run dev 
 9. check project!
 
 
