@@ -99,7 +99,7 @@ const Slider = () => {
                                     style={{objectFit: 'cover', borderRadius: '10px'}}
                                     className="bg-gradient-linear from-blue-500 to-green-500 shadow-custom"
                                     alt={el.title}/>
-                                    <Link href={`/slide/${el.id}`}  className="cursor-pointer absolute bottom-0 left-0 minlg:p-[15px] lg:p-[5px] minlg:text-[19px] lg:text-[15px] font-bold leading-[20px] z-10 md:!text-[12px] md:!p-[10px]">{el.title}</Link>
+                                    <Link href={`/slide/${el.id}`}  className="cursor-pointer absolute duration-300 hover:text-[#F38600] bottom-0 left-0 minlg:p-[15px] lg:p-[5px] minlg:text-[19px] lg:text-[15px] font-bold leading-[20px] z-10 md:!text-[12px] md:!p-[10px]">{el.title}</Link>
                                 </SwiperSlide>
                         )
                     })
