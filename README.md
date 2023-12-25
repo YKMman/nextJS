@@ -1,22 +1,20 @@
 It`s a test project for "Телерадиохолдинг Optimedia"
 
 What need to start this app? Almost nothing:
-1. Postgres database
-2. Node js
+1. Postgres database 
+2. Node js (20.8.0) or latest
 
 
 This is a full adaptive and cross-browser NEXTJS project with database postgres
 FULLSTACK APP
 
 Manual for use:
-1. download all files to folder nexttest ((!important)
+1. git clone https://github.com/YKMman/nexttest.git
 2. open postgres database
 3. open .env.local file and update variables with you postgres database
 4. open .sql and ctrl c + ctrl v to postgres consol command
-5. Update name file on package.json -   "name": "nexttest",  ((!important))
-7. open folder in vs code
-8. npm i -D encoding -> npm i -> npm run dev 
-9. check project!
+5. cd nexttest -> npm i -> npm run dev 
+6. check project!
 
 
 About this project:
