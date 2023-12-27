@@ -21,7 +21,7 @@ const Slider = () => {
     const sliderRef = useRef<SwiperRef | null>(null)
 
     useEffect(() => {
-        fetch('http://localhost:3000/api/material')
+        fetch('/api/material')
         .then((res) => res.json())
         .then((data) => {
             setData(data)
