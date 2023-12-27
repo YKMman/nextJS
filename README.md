@@ -11,7 +11,7 @@ FULLSTACK APP
 
 Manual for use: 
 
-0. localhost3000
+0. http://localhost:3000
 1. open folder in vs code -> ctrl shift ` or terminal -> git clone https://github.com/YKMman/nexttest.git
 2. open postgres database
 3. backslash! chcp 1251 to psql database (ru encoding)
