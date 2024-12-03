@@ -1,5 +1,3 @@
-It`s a test project for "Телерадиохолдинг Optimedia"
-
 What need to start this app?
 1. Postgres database - https://www.postgresql.org/
 2. Node js (20.8.0) or latest - https://nodejs.org/en
